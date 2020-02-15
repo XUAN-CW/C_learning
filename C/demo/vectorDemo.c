@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS 1    //vs环境下取消安全检查，其他编译器可删去此句
+﻿#define 境下取消安全检查，其他编译器可删去此句
 #include<iostream>
 #include<vector>
 
